@@ -1,0 +1,8 @@
+Object -oriented programming (OOP) in C# focuses on the following main concepts ?
+In C#, what is an object?
+What feature does the above image show in C# OOP ?
+An abstract class in C# can be instantiated as an object through which keyword ?
+What feature does the image on the car class represent in C# OOP?
+To hide details inside a class and show only public methods, what concept do we use in C#?
+When we run the above code, what will be the output printed to the screen ?
+When do we use interfaces in C#?

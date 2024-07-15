@@ -1,0 +1,30 @@
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\TongHop.csproj.AssemblyReference.cache
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\TongHop.csproj.SuggestedBindingRedirects.cache
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\TongHop.Properties.Resources.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\TongHop.csproj.GenerateResource.cache
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\TongHop.csproj.CoreCompileInputs.cache
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\bin\Debug\TongHop.exe.config
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\bin\Debug\TongHop.exe
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\bin\Debug\TongHop.pdb
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\TongHop.exe
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\TongHop.pdb
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\TongHop.TongHop.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\TaxApp.TaxApplication.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\hihi.btntinh.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\AppQLSV.Can.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\AppQLSV.Qlsv.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\quizGame.QuizApp.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\WindowsFormsApplication1.frmPuzzleGame.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\ImageProcessing.BrightnessForm.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\ImageProcessing.ContrastForm.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\ImageProcessing.CropForm.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\ImageProcessing.GammaForm.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\ImageProcessing.ImageInfo.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\ImageProcessing.IP.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\ImageProcessing.InsertImageForm.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\ImageProcessing.InsertShapeForm.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\ImageProcessing.InsertTextForm.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TongHop\TongHop\obj\Debug\ImageProcessing.InsertTextForm1.resources
+C:\Users\DarkM\Desktop\TongHopCacLAB\TongHop\TongHop\obj\Debug\TongHop.csproj.AssemblyReference.cache
+C:\Users\DarkM\Desktop\TongHopCacLAB\TongHop\TongHop\obj\Debug\TongHop.exe
+C:\Users\DarkM\Desktop\TongHopCacLAB\TongHop\TongHop\obj\Debug\TongHop.pdb

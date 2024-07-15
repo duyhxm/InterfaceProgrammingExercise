@@ -1,0 +1,10 @@
+C:\Users\DarkM\source\repos\hihi\hihi\obj\Debug\hihi.csproj.AssemblyReference.cache
+C:\Users\DarkM\source\repos\hihi\hihi\obj\Debug\hihi.btntinh.resources
+C:\Users\DarkM\source\repos\hihi\hihi\obj\Debug\hihi.Properties.Resources.resources
+C:\Users\DarkM\source\repos\hihi\hihi\obj\Debug\hihi.csproj.GenerateResource.cache
+C:\Users\DarkM\source\repos\hihi\hihi\obj\Debug\hihi.csproj.CoreCompileInputs.cache
+C:\Users\DarkM\source\repos\hihi\hihi\bin\Debug\hihi.exe.config
+C:\Users\DarkM\source\repos\hihi\hihi\bin\Debug\hihi.exe
+C:\Users\DarkM\source\repos\hihi\hihi\bin\Debug\hihi.pdb
+C:\Users\DarkM\source\repos\hihi\hihi\obj\Debug\hihi.exe
+C:\Users\DarkM\source\repos\hihi\hihi\obj\Debug\hihi.pdb

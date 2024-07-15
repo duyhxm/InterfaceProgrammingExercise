@@ -1,0 +1,22 @@
+D:\Chanh Resources\Năm 2 - HK3\Lập trình giao diện\APP\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.AssemblyReference.cache
+D:\Chanh Resources\Năm 2 - HK3\Lập trình giao diện\APP\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.SuggestedBindingRedirects.cache
+D:\Chanh Resources\Năm 2 - HK3\Lập trình giao diện\APP\TaxApp\TaxApp\obj\Debug\TaxApp.Form1.resources
+D:\Chanh Resources\Năm 2 - HK3\Lập trình giao diện\APP\TaxApp\TaxApp\obj\Debug\TaxApp.Properties.Resources.resources
+D:\Chanh Resources\Năm 2 - HK3\Lập trình giao diện\APP\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.GenerateResource.cache
+D:\Chanh Resources\Năm 2 - HK3\Lập trình giao diện\APP\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.CoreCompileInputs.cache
+D:\Chanh Resources\Năm 2 - HK3\Lập trình giao diện\APP\TaxApp\TaxApp\bin\Debug\TaxApp.exe.config
+D:\Chanh Resources\Năm 2 - HK3\Lập trình giao diện\APP\TaxApp\TaxApp\bin\Debug\TaxApp.exe
+D:\Chanh Resources\Năm 2 - HK3\Lập trình giao diện\APP\TaxApp\TaxApp\bin\Debug\TaxApp.pdb
+D:\Chanh Resources\Năm 2 - HK3\Lập trình giao diện\APP\TaxApp\TaxApp\obj\Debug\TaxApp.exe
+D:\Chanh Resources\Năm 2 - HK3\Lập trình giao diện\APP\TaxApp\TaxApp\obj\Debug\TaxApp.pdb
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TaxApp\TaxApp\TaxApp\bin\Debug\TaxApp.exe.config
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TaxApp\TaxApp\TaxApp\bin\Debug\TaxApp.exe
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TaxApp\TaxApp\TaxApp\bin\Debug\TaxApp.pdb
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TaxApp\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.AssemblyReference.cache
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TaxApp\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.SuggestedBindingRedirects.cache
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TaxApp\TaxApp\TaxApp\obj\Debug\TaxApp.Properties.Resources.resources
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TaxApp\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.GenerateResource.cache
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TaxApp\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.CoreCompileInputs.cache
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TaxApp\TaxApp\TaxApp\obj\Debug\TaxApp.exe
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TaxApp\TaxApp\TaxApp\obj\Debug\TaxApp.pdb
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\TaxApp\TaxApp\TaxApp\obj\Debug\TaxApp.TaxApp.resources

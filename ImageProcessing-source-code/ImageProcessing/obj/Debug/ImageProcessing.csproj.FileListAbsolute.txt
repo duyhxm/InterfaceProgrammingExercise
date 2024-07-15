@@ -1,0 +1,20 @@
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.csproj.AssemblyReference.cache
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.BrightnessForm.resources
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.ContrastForm.resources
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.CropForm.resources
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.GammaForm.resources
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.ImageInfo.resources
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.ImageProcessing.resources
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.InsertImageForm.resources
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.InsertShapeForm.resources
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.InsertTextForm.resources
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.InsertTextForm1.resources
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\TKComputer\Desktop\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.pdb
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.exe
+D:\Chanh Resources\Năm 2 - HK 3\Lập trình giao diện\TongHopCacLAB\ImageProcessing-source-code\ImageProcessing\obj\Debug\ImageProcessing.pdb
